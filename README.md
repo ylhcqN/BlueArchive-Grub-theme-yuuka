@@ -25,6 +25,8 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg #Arch
 - 1.This project is licensed under the GPL-3.0 license
 - 2.本项目所使用的美术素材来自《蔚蓝档案》，由NEXON Co., Ltd.版权所有
 - 2.The art materials used in this project are from "Blue Archive", copyrighted by NEXON Co., Ltd.
+- 3.[千年标志 by Hachi（CC BY-NC 4.0）](https://hachiiiiiiii.co)
+- 3.[MILLENNIUM LOGO by Hachi（CC BY-NC 4.0）](https://hachiiiiiiii.co)
 
 ## 5.支持我(Support me)
 [bilibili](https://space.bilibili.com/1863500961)
